@@ -6,7 +6,7 @@ jsDelivr + Github = CDN
 
 例如：
 
-https://cdn.jsdelivr.net/gh/Dongyx1128/jsDelivr-CDN@1.0/MyImages/多读书.jpg
+https://cdn.jsdelivr.net/gh/Dongyx1128/jsDelivr-CDN@main/MyImages/多读书.jpg
 https://cdn.jsdelivr.net/gh/Dongyx1128/jsDelivr-CDN@2.0.1/css/style.css
 https://cdn.jsdelivr.net/gh/Dongyx1128/jsDelivr-CDN@3.1.3//The%20Pet%20Girl%20of%20Sakurasou.mp4
 
